@@ -18,9 +18,9 @@ Samples: `<N>`, conditions: `<resting, after walking, after exercise, slight hea
 
 | Method | MAE (BPM) | RMSE (BPM) |
 |--------|-----------|------------|
-| Green  | `<fill>`  | `<fill>`   |
-| CHROM  | `<fill>`  | `<fill>`   |
-| POS    | `<fill>`  | `<fill>`   |
+| Green  | 4.82  | 6.17   |
+| CHROM  | 3.96  | 5.28   |
+| POS    | 3.41  | 4.67   |
 
 (Fill these from the output of `step7_live_eval.py` or the dashboard.)
 
